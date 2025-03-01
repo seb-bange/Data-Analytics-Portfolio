@@ -19,7 +19,7 @@ Outside of work, I love exploring side projects that involve uncovering hidden p
 - [About Me](#about-me)  
 - [Portfolio Projects](#portfolio-projects)  
   - [🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/nicomasterschool/unicorn_project)  
-  - [2. Car Data Analysis (Python)](https://github.com/nicomasterschool/Data-Analytics-Portfolio/blob/main/README.md#--2-car-data-analysis-python)  
+  - [2. Car Data Analysis (Python)]()  
 - [Education](#education)  
 - [Certificates](#certificates)  
 - [Contact](#contact)  
