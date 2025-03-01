@@ -65,38 +65,41 @@ This project involved analyzing Unicorn Company’s sales, profit, and customer 
 
 ---
 
-### ** 🚗 2. Car Data Analysis (Python)**  
+### **🚗 2. Car Market Analysis (Python)**
 
-**Goal:** To clean, transform, and analyze a dataset of car specifications and pricing to uncover market trends and relationships.  
+**Objective**: Clean, transform, and analyze car specification and pricing data to identify market trends and key relationships.
 
-**Description:**  
-This project focused on using Python for data cleaning, feature engineering, and exploratory analysis of a car dataset. The dataset included details like car make, model, engine specs, fuel types, and prices.  
+**Overview:**
+This project leveraged Python for data preprocessing, feature engineering, and exploratory analysis of a car dataset. The dataset included details such as make, model, engine specifications, fuel types, and pricing.
 
-**Key Tasks:**  
-- Cleaned and handled missing data, standardized text formats, and filtered cars from 1995 and later.  
-- Created new features, such as Total MPG and Price per Horsepower, to support deeper analysis.  
-- Conducted exploratory data analysis (EDA) to visualize key trends in car pricing, horsepower, and market size.  
+**Key Steps:**
+- Processed and cleaned data by handling missing values, standardizing formats, and filtering for cars from 1995 onward.
+- Engineered new features like **Total MPG** and **Price per Horsepower** to enhance analytical depth.
+- Performed exploratory data analysis (EDA) to uncover pricing trends, horsepower distributions, and market segmentation.
 
-**Skills:**  
-- Data cleaning and transformation (Pandas, NumPy)  
-- Exploratory analysis and descriptive statistics  
-- Correlation analysis  
-- Data visualization (Matplotlib, Seaborn)  
+**Skills Applied:**
+- Data preprocessing and transformation (Pandas, NumPy)
+- Exploratory analysis and statistical insights
+- Correlation analysis
+- Data visualization (Matplotlib, Seaborn)
 
-**Technology:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+**Tools & Technologies:** Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-**Key Insights:**  
-- Discovered strong correlations between engine horsepower and car prices.  
-- Showed that larger vehicles and premium market segments command higher prices.  
-- Highlighted efficiency trends across different transmission types.  
+**Key Findings:**
+- Identified a strong correlation between engine horsepower and car prices.
+- Found that larger vehicles and premium models tend to have significantly higher prices.
+- Analyzed efficiency trends across different transmission types.
 
-📈 **Results:**  
-- [Jupyter Notebook](#)  
+**📈 Project Deliverable:**
+- [Jupyter Notebook](https://colab.research.google.com/drive/1SGQndKAqy39gFsRqBYRbmIkh7FxZD_MG?usp=sharing) 
 
 ---
 
 ## 🎓 **Education**  
-- **Data Analytics at Masterschool (in Progress)** 
+- **Data Analytics at Masterschool (in Progress)**
+- **MBA at ENEB - Escuela de Negocios Europea de Barcelona (in Progress)**
+- **Master in Big Data and Business Intelligence at ENEB - Escuela de Negocios Europea de Barcelona (in Progress)**
+
 
 ---
 
