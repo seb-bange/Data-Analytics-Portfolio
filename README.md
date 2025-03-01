@@ -111,7 +111,7 @@ This project leveraged Python for data preprocessing, feature engineering, and e
 ---
 
 ## 📬 **Contact**  
-Let's connect! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nicolas-mustermann/) or email to discuss projects, collaborations, or opportunities.  
+Let's connect! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sebastian-bangemann/) or email to discuss projects, collaborations, or opportunities.  
 
 ---  
 
