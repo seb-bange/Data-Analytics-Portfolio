@@ -20,9 +20,9 @@ Outside of work, I love exploring side projects that involve uncovering hidden p
 - [Portfolio Projects](#portfolio-projects)  
   - [🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/seb-bange/unicorn_project)  
   - [2. Car Data Analysis (Python)](https://github.com/seb-bange/car_project_python)  
-- [Education](#education)
-- [Certificates](#certificates)  
-- [Contact](#contact)  
+- [Education]([#education](https://github.com/seb-bange/Data-Analytics-Portfolio?tab=readme-ov-file#education))
+- [Certificates](https://github.com/seb-bange/Data-Analytics-Portfolio?tab=readme-ov-file#certificates)  
+- [Contact](https://github.com/seb-bange/Data-Analytics-Portfolio?tab=readme-ov-file#contact)  
 
 ---
 
