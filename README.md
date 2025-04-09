@@ -18,9 +18,10 @@ Outside of work, I love exploring side projects that involve uncovering hidden p
 
 - [About Me](#about-me)  
 - [Portfolio Projects](#portfolio-projects)  
-  - [🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)]((https://github.com/seb-bange/unicorn_project))  
-  - [🚗 2. Car Data Analysis (Python)]([#2--car-market-analysis-python](https://github.com/seb-bange/car_project_python))
-  - [🚗 3. Vehicle Classification Model for Prospect Auto (Supervised ML)](https://github.com/seb-bange/ml_supervised_car)  
+  - [🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/seb-bange/unicorn_project)
+  - [🚗 2. Car Data Analysis (Python)](https://github.com/seb-bange/car_project_python)
+  - [🚗 3. Vehicle Classification Model for Prospect Auto (Supervised ML)](https://github.com/seb-bange/ml_supervised_car)
+  - [🚗 4. Vehicle Classification Model for Prospect Auto (Unsupervised ML)](https://github.com/seb-bange/ml_unsupervised_car)  
 - [Education](#education)
 - [Certificates](#certificates)  
 - [Contact](#contact)  
@@ -137,7 +138,7 @@ Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
 
 ---
 
-### **🚗 Vehicle Silhouette Clustering – Prospect Auto**
+### **🚗 4. Vehicle Silhouette Clustering – Prospect Auto**
 
 📄 **Project Overview:**
 
