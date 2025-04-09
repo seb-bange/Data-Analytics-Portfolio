@@ -95,6 +95,45 @@ This project leveraged Python for data preprocessing, feature engineering, and e
 
 ---
 
+### **🚗 3. Vehicle Classification Model for Prospect Auto (Supervised ML)
+
+**Objective:
+Develop a machine learning model to classify vehicles based on silhouette features, supporting Prospect Auto’s internal tools.
+
+**🔍 Overview:**
+
+This project uses supervised machine learning to predict vehicle class from silhouette data. After cleaning and exploring the dataset, several models were tested to find the most accurate and generalizable classifier.
+
+**🛠️ Steps:**
+	•	Data preprocessing and normalization
+	•	Exploratory Data Analysis (EDA)
+	•	Model training:
+	•	Logistic Regression
+	•	KNN
+	•	SVM (Linear, Polynomial, RBF)
+	•	Decision Tree
+	•	Random Forest
+	•	Gradient Boosting
+	•	Evaluation using Accuracy, Precision, Recall, F1-Score, ROC AUC
+	•	Visualization of performance (heatmap, line plot)
+
+**✅ Key Result:**
+
+SVM with RBF kernel achieved >99% in all metrics with excellent generalization and is recommended for deployment.
+
+**📦 Technologies:**
+
+Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
+
+**📈 Deliverable:**
+	•	Final model recommendation
+	•	Evaluation plots
+	•	Clean and reproducible Jupyter Notebook
+
+**📓 Notebook:**
+
+👉 - [Jupyter Notebook](https://colab.research.google.com/drive/1SGQndKAqy39gFsRqBYRbmIkh7FxZD_MG?usp=sharing)
+
 ## 🎓 **Education**  
 - **Data Analytics at Masterschool (in Progress)**
 - **MBA at ENEB - Escuela de Negocios Europea de Barcelona (in Progress)**
