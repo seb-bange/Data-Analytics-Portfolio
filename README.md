@@ -19,7 +19,8 @@ Outside of work, I love exploring side projects that involve uncovering hidden p
 - [About Me](#about-me)  
 - [Portfolio Projects](#portfolio-projects)  
   - [🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/seb-bange/unicorn_project)  
-  - [2. Car Data Analysis (Python)](https://github.com/seb-bange/car_project_python)  
+  - [🚗 2. Car Data Analysis (Python)](https://github.com/seb-bange/car_project_python)
+  - [🚗 3. Vehicle Classification Model for Prospect Auto (Supervised ML)](https://github.com/seb-bange/ml_supervised_car)  
 - [Education](#education)
 - [Certificates](#certificates)  
 - [Contact](#contact)  
@@ -95,7 +96,7 @@ This project leveraged Python for data preprocessing, feature engineering, and e
 
 ---
 
-### **🚗 3. Vehicle Classification Model for Prospect Auto (Supervised ML)
+### **🚗 3. Vehicle Classification Model for Prospect Auto (Supervised ML)**
 
 **Objective:
 Develop a machine learning model to classify vehicles based on silhouette features, supporting Prospect Auto’s internal tools.
