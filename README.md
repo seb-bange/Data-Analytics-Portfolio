@@ -18,9 +18,9 @@ Outside of work, I love exploring side projects that involve uncovering hidden p
 
 - [About Me](#about-me)  
 - [Portfolio Projects](#portfolio-projects)  
-  - [🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](#1-unicorn-company-data-exploration--insights-sql--tableau--google-sheets)  
-  - [🚗 2. Car Data Analysis (Python)](#2-car-market-analysis-python)
-  - [🚗 3. Vehicle Classification Model for Prospect Auto (Supervised ML)](#3-vehicle-classification-model-for-prospect-auto-supervised-ml)  
+  - [🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](#1--unicorn-company-data-exploration--insights-sql--tableau--google-sheets)  
+  - [🚗 2. Car Data Analysis (Python)](#2--car-market-analysis-python)
+  - [🚗 3. Vehicle Classification Model for Prospect Auto (Supervised ML)](#3--vehicle-classification-model-for-prospect-auto-supervised-ml)  
 - [Education](#education)
 - [Certificates](#certificates)  
 - [Contact](#contact)  
