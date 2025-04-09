@@ -98,7 +98,7 @@ This project leveraged Python for data preprocessing, feature engineering, and e
 
 ### **🚗 3. Vehicle Classification Model for Prospect Auto (Supervised ML)**
 
-**Objective:
+**Objective:**
 Develop a machine learning model to classify vehicles based on silhouette features, supporting Prospect Auto’s internal tools.
 
 **🔍 Overview:**
