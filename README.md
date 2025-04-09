@@ -135,6 +135,52 @@ Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
 
 👉 - [Jupyter Notebook](https://colab.research.google.com/drive/1SGQndKAqy39gFsRqBYRbmIkh7FxZD_MG?usp=sharing)
 
+---
+
+### **🚗 Vehicle Silhouette Clustering – Prospect Auto**
+
+📄 **Project Overview:**
+
+This project focuses on clustering a dataset of vehicle silhouettes based on geometric features extracted from the silhouettes of vehicles in various angles. The dataset includes three vehicle types: bus, van, and car. The goal is to explore unsupervised learning techniques to classify these vehicles based on their silhouette features.
+
+🧠 **Problem Statement:**
+
+Prospect Auto requested a model to differentiate between three vehicle types based on their silhouettes. The task is to classify vehicles without labeled data using clustering algorithms.
+
+🛠 **Project Steps:**
+- Data Preparation
+- Imported necessary libraries
+- Loaded and read the dataset
+- Normalized and standardized features
+- Dimensionality Reduction
+- Applied PCA to reduce the 18 features while preserving data variance
+- Clustering Models
+- Applied K-Means Clustering
+- Applied DBSCAN Clustering
+- Evaluation
+- Measured clustering performance using Silhouette Score and other relevant metrics
+
+📊 **Evaluation & Results**
+- **K-Means:**
+	- Silhouette Score: 0.31
+	- **Conclusion:** K-Means showed significant overlap between clusters, making it unsuitable for this dataset.
+- **DBSCAN:**
+  	- Silhouette Score: 0.27
+	- Noise Points: 155 (≈ 20% of the data)
+	- Davies-Bouldin Index: ≈ 1.0
+	- **Conclusion:** DBSCAN also underperformed due to high noise and poor cluster separation.
+
+✅ **Conclusion:**
+
+Supervised learning, particularly using SVM with an RBF kernel, yielded exceptional results. However, unsupervised clustering algorithms like K-Means and DBSCAN struggled with the dataset.
+
+🔎 **Recommendation:** Supervised learning (SVM with RBF kernel) remains the optimal approach for this problem.
+
+📓 **Notebook:**
+
+[Unsupervised ML Notebook](https://colab.research.google.com/drive/1YW85WScqkZJg2i3ze1pLU2Sy97kBA9bl?usp=sharing)
+
+
 ## 🎓 **Education**  
 - **Data Analytics at Masterschool (in Progress)**
 - **MBA at ENEB - Escuela de Negocios Europea de Barcelona (in Progress)**
