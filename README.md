@@ -191,9 +191,6 @@ Supervised learning, particularly using SVM with an RBF kernel, yielded exceptio
 ---
 
 ## 📜 **Certificates**  
-- SQL for Data Analytics 
-- Python for Data Analysis  
-- Tableau Advanced Visualization Techniques  
 
 ---
 
