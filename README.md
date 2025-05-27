@@ -191,7 +191,7 @@ Supervised learning, particularly using SVM with an RBF kernel, yielded exceptio
 ---
 
 ## 📜 **Certificates**  
-
+- [Google Data Analytics](https://coursera.org/share/cfb202ea7cfeff30aa83acff4a1d5d91)
 ---
 
 ## 📬 **Contact**  
