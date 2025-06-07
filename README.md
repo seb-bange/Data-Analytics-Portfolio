@@ -198,9 +198,6 @@ Supervised learning, particularly using SVM with an RBF kernel, yielded exceptio
 **Tech Stack**:  
 `Python`, `TensorFlow/Keras`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`
 
-**Sample Output**:  
-![Confusion Matrix]([./cv_cifar10/screenshots/confusion_matrix.png](https://github.com/seb-bange/cv_cifar10/blob/main/screenshots/conf_matrix.png))
-
 🔗 [View Full Project](https://github.com/seb-bange/cv_cifar10)
 
 ---
