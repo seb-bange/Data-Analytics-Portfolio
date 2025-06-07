@@ -58,13 +58,13 @@ This project involved analyzing Unicorn Company’s sales, profit, and customer 
 **Technologies:** PostgreSQL, Tableau
 
 **Key Insights:**
-	•	Identified the most profitable cities, customer segments, and products across regions.
-	•	Pinpointed areas of growth opportunity in the East and South regions.
-	•	Suggested changes in discount strategies to enhance profit margins.
+- Identified the most profitable cities, customer segments, and products across regions.
+- Pinpointed areas of growth opportunity in the East and South regions.
+- Suggested changes in discount strategies to enhance profit margins.
 
 **📈 Results:**
-	•	Tableau Public Dashboard
-	•	SQL Queries
+- Tableau Public Dashboard
+- SQL Queries
 
 ---
 
