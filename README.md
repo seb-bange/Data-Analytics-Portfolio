@@ -66,6 +66,8 @@ This project involved analyzing Unicorn Company’s sales, profit, and customer 
 - Tableau Public Dashboard
 - SQL Queries
 
+🔗 [View Full Project](https://github.com/seb-bange/unicorn_project))
+
 ---
 
 ### **🚗 2. Car Market Analysis (Python)**
