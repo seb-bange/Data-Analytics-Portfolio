@@ -39,21 +39,21 @@ Outside of work, I love exploring side projects that involve uncovering hidden p
 This project involved analyzing Unicorn Company’s sales, profit, and customer data using SQL queries, then translating the findings into an actionable Tableau dashboard. The focus was on identifying high-performing regions, products, and customer segments.
 
 **Part 1: Data Exploration with SQL**
-	•	Performed in-depth exploration of the Unicorn database to answer key business questions regarding sales, profits, and customer behavior.
-	•	Cleaned and merged tables, performed aggregations, and ranked cities, products, and regions based on performance.
+- Performed in-depth exploration of the Unicorn database to answer key business questions regarding sales, profits, and customer behavior.
+- Cleaned and merged tables, performed aggregations, and ranked cities, products, and regions based on performance.
 
 **Part 2: Analysis with Google Sheets**
-	•	Utilized pivot tables and created calculated columns (e.g., price per unit).
-	•	Highlighted underperforming regions through conditional formatting.
+- Utilized pivot tables and created calculated columns (e.g., price per unit).
+- Highlighted underperforming regions through conditional formatting.
 
 **Part 3: Insights & Dashboard with Tableau**
-	•	Built a Tableau dashboard to present key insights, trends, and actionable recommendations to support data-driven business decisions.
+- Built a Tableau dashboard to present key insights, trends, and actionable recommendations to support data-driven business decisions.
 
 **Skills:**
-	•	SQL: Data querying, joins, DML/DQL operations, subqueries
-	•	Data cleaning and filtering
-	•	Tableau: Data visualization and dashboard creation
-	•	Business insights and recommendations
+- SQL: Data querying, joins, DML/DQL operations, subqueries
+- Data cleaning and filtering
+- Tableau: Data visualization and dashboard creation
+- Business insights and recommendations
 
 **Technologies:** PostgreSQL, Tableau
 
