@@ -21,7 +21,8 @@ Outside of work, I love exploring side projects that involve uncovering hidden p
   - [🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/seb-bange/unicorn_project)
   - [🚗 2. Car Data Analysis (Python)](https://github.com/seb-bange/car_project_python)
   - [🚗 3. Vehicle Classification Model for Prospect Auto (Supervised ML)](https://github.com/seb-bange/ml_supervised_car)
-  - [🚗 4. Vehicle Classification Model for Prospect Auto (Unsupervised ML)](https://github.com/seb-bange/ml_unsupervised_car)  
+  - [🚗 4. Vehicle Classification Model for Prospect Auto (Unsupervised ML)](https://github.com/seb-bange/ml_unsupervised_car)
+  - [🧠 Computer Vision: CIFAR-10 Classification with ResNet50](https://github.com/seb-bange/cv_cifar10)  
 - [Education](#education)
 - [Certificates](#certificates)  
 - [Contact](#contact)  
@@ -181,6 +182,28 @@ Supervised learning, particularly using SVM with an RBF kernel, yielded exceptio
 
 [Unsupervised ML Notebook](https://colab.research.google.com/drive/1YW85WScqkZJg2i3ze1pLU2Sy97kBA9bl?usp=sharing)
 
+---
+
+### 🧠 Computer Vision: CIFAR-10 Classification with ResNet50
+
+**Goal**: Train a convolutional neural network to classify 10 image categories using the CIFAR-10 dataset and transfer learning with ResNet50.
+
+**Key Highlights**:
+- Used a **pre-trained ResNet50** as feature extractor  
+- Built a custom classification head  
+- Implemented **fine-tuning**, learning rate scheduling, and early stopping  
+- Applied data augmentation to improve generalization  
+- Achieved over **73% validation accuracy** on just 10,000 training samples
+
+**Tech Stack**:  
+`Python`, `TensorFlow/Keras`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`
+
+**Sample Output**:  
+![Confusion Matrix](./cv_cifar10/screenshots/confusion_matrix.png)
+
+🔗 [View Full Project](https://github.com/seb-bange/cv_cifar10)
+
+---
 
 ## 🎓 **Education**  
 - **Data Analytics at Masterschool (in Progress)**
