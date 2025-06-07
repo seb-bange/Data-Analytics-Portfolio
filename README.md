@@ -31,7 +31,7 @@ Outside of work, I love exploring side projects that involve uncovering hidden p
 
 ## 📊 **Portfolio Projects**
 
-### **🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)
+### 🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)
 
 **Objective:** Conduct comprehensive data exploration using SQL and create an executive-level Tableau dashboard to deliver insights and business recommendations.
 
@@ -193,7 +193,7 @@ Supervised learning, particularly using SVM with an RBF kernel, yielded exceptio
 - Built a custom classification head  
 - Implemented **fine-tuning**, learning rate scheduling, and early stopping  
 - Applied data augmentation to improve generalization  
-- Achieved over **73% validation accuracy** on just 10,000 training samples
+- Achieved over **72% validation accuracy** on just 10,000 training samples
 
 **Tech Stack**:  
 `Python`, `TensorFlow/Keras`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`
